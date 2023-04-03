@@ -1,9 +1,0 @@
-name: OFStackableSpawners
-version: '${version}'
-main: me.orbitium.ofstackablespawners.OFStackableSpawners
-api-version: 1.19
-depend: [Essentials]
-commands:
-  stackableSpawners:
-    aliases:
-      - ss
