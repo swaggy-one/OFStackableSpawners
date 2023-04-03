@@ -1,6 +1,9 @@
 # OFStackableSpawners
-Originally developed by Orbitium
-Being added to by me as I learn Java.
+Originally developed by @Orbitium, ***HEAVILY*** patched by @Abdelaziz1586.
+
+Being added to by me (slash1div) as I learn Java.
+
+---
 
 **Used and made for `hardcore.CapstoneMC.net`**
 
