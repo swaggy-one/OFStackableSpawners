@@ -1,0 +1,9 @@
+name: OFStackableSpawners
+version: '${project.version}'
+main: me.pebbleprojects.ofstackablespawners.OFStackableSpawners
+api-version: 1.19
+depend: [Essentials]
+commands:
+  stackableSpawners:
+    aliases:
+      - ss
