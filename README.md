@@ -5,8 +5,6 @@ Being added to by me (slash1div) as I learn Java.
 
 ---
 
-**Used and made for `hardcore.CapstoneMC.net`**
-
 Similar to DonutSMP spawners. They stack and are fully GUI based.
 Rates and messages are fully customizable. Even has a playtime restriction on breaking.
 Also introduces silk-touch requirements for pickup.
